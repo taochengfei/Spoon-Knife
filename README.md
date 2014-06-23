@@ -7,6 +7,7 @@ test merge origin/master
 local commit
 
 mybranch commit
+mybranch commit waiting to be locally synced
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
